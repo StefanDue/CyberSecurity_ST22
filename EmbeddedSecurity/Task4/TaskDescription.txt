@@ -1,0 +1,8 @@
+In modern vehicles there are about 80-200 ECUs. The total code size of different products are listed:
+    Code: Hubble: ca. 4 million lines of code
+    Boing 787: ca. 12 million lines of code
+    Modern vehicle (125 ECUs): >100 million lines of code
+
+In the early development phase there are typically 5-20 bugs per 1000 lines of code 
+-->  Calculate the expected number of bugs in the Hubble system, the Boing 787 and a modern vehicle
+

@@ -1,0 +1,9 @@
+Look at the following sequence:
+     16, 3, 26, 2, 23, 24, 27, 5, …
+
+Assume the numbers were generated with
+     s{i+1} = A ∙ s + B mod m, m=31
+
+Find A and B
+Calculate the next 3 (pseudo)random numbers
+

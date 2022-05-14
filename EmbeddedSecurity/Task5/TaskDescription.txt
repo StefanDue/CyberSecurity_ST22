@@ -1,0 +1,3 @@
+Draw an attack tree for the attacker goal: Steal the bicycle (as shown on the picture) - This means: show different attack paths that lead to the attacker goal
+Assume the bicycle lock can be a number lock or a key lock (i.e. consider both possibilities)
+

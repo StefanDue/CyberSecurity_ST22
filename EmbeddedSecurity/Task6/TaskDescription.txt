@@ -1,0 +1,8 @@
+Calculate the number 24
+Use only the integer numbers 1,3,4 and 6.
+Use each of these numbers exactly once!
+You can use the basic operations “+”, “-”, “/” and “·” in the decimal system
+You may use brackets
+
+Exercise is optional: This means 100% of all points can be achieved without it. 
+

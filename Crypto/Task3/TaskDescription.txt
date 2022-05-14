@@ -1,0 +1,21 @@
+
+
+Wir haben folgende 2 ciphertexte (cipher 1 und cipher2), die jeweils mit demselben key XOR-­‐verschlüsselt wurden. Wir kennen einen der beiden Klartexte (text1).
+
+Ermitteln sie den anderen Klartext (cipher 2 --> text 2)!
+
+Zum Testen, ob sinnvoller Text rauskommt kopieren Sie das Ergebnis (den hexdump) wie im Folgenden beschrieben: 
+
+neues cryptool-file: (New/File) dann View/Show as HexDump;; das Ergebnis (den
+
+hexdump) kopieren, dann Paste ins neue cryptool-file (natürlich als hex decoded)
+
+ 
+
+Im Folgenden: der Hex-Dump (also Ascii-Codes in Hexadezimal dargestellt)
+
+text1: 44 41 53 49 53 54 45 49 4E 4C 41 4E 47 45 52 54 45 58 54
+
+cipher2: F8 2F FF 2E EE 32 EC 3B EE 34 EE 35 E6 39 F9 28 EE 24 FF
+
+cipher1: EF 3D F8 35 F8 28 EE 35 E5 30 EA 32 EC 39 F9 28 EE 24 FF

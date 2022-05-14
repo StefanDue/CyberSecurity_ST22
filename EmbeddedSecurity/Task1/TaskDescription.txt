@@ -1,0 +1,4 @@
+Find examples: where are random numbers used (excluding security applications)?
+Find examples: where are random numbers used in security applications?
+w/ and w/o security applications: For which applications is randomness more or less important? Which characteristic is most important?
+

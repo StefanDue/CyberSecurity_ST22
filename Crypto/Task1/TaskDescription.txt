@@ -1,0 +1,10 @@
+
+
+The ciphertext (see attached file) was encrypted using a substitution cipher.Decrypt the ciphertext without knowledge of the key.
+
+ 
+
+    Compute the relative frequency of all letters A…Z in the ciphertext. You may want to use a tool such as the open-source program CrypTool for this task. However, a paper and pencil approach is also still doable.
+    Decrypt the ciphertext with the help of the relative letter frequency of the German language, see attached file. Note that the text is relatively short and that the letter frequencies in it might not perfectly align with that of general German language from the table.
+    Who wrote the text?
+

@@ -1,0 +1,11 @@
+
+
+An RSA encryption scheme has the set-up parameters p = 31 and q = 37.
+
+The public key is e = 17.
+
+ 
+
+1. Decrypt the ciphertext y = 2 using the Cryptool or a pocket calculator!
+
+2. Verify your result by encrypting the plaintext!

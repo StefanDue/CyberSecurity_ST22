@@ -1,0 +1,3 @@
+Assume you shall develop a embedded product that processes life-critical (medical) data. Describe whether you would employ crypto hardware or software. Why?
+What about a high-volume sensor (for the mass market) that delivers safety-critical data? Describe whether you would employ crypto hardware or software. Why?
+

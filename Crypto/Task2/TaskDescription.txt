@@ -1,0 +1,11 @@
+
+
+We received the following ciphertext which was encoded with a shift cipher:
+
+UKGIGP YKTF FGT FGUUGP CTOGG KP CNNGP TCGPIGP XQO INGKEJGP IGKUV DGUGGNV KUV
+
+ 
+
+1. Perform an attack against the cipher based on a letter frequency count: How many letters do you have to identify through a frequency count to recover the key? What is the cleartext?
+
+2. Was passiert bei der Caesar-Verschluesselung mit dem Histogram?
